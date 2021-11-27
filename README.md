@@ -183,4 +183,5 @@ tableau = [0 1 1 1 0;
 
 # References
 [1] Bertsimas D., Tsitsiklis N. J. Introduction to Linear Optmization (1997). Athena Scientific, Belmont, Massachusetts.
+
 [2] Graves, S. The Simplex Method for Solving a Linear Program (2003). Massachusetts Institute of Technology. Pages 55 - 58.
